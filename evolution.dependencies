@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "device_motorola_sm8350-common",
+    "target_path": "device/motorola/sm8350-common",
+    "remote": "evo-devices"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_berlin",
+    "target_path": "vendor/motorola/berlin",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_berlin-radio",
+    "target_path": "vendor/motorola/berlin-radio",
+    "remote": "gitlab",
+    "branch": "lineage-23.2"
+  }
+]
